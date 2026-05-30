@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcarse",
+        "uuid": 2660238,
+        "checksum": "s24z7i"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
